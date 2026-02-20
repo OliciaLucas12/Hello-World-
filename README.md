@@ -1,5 +1,5 @@
 # Hello-World-
-**first Repository**
+**First Repository**
 
 ## Table of Contents
 
