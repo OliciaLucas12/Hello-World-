@@ -13,7 +13,7 @@
 ## PROJECT TITLE
 Las Vegas Hotel Popularity 
 ## DESCRIPTION
-Analyized what factors into popu;arity of a Las Vegas Hotel
+Analyized what factors into popuLarity of a Las Vegas Hotel
 ## TOOLS USED
 - Kaggle
 - Excell
