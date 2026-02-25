@@ -10,6 +10,6 @@
 - [HOW TO RUN PROGRAM](#How-to-run-program)
 - [ADDITIONAL INFORMATION](#additional-information).
 
-[PROJECT TITLE] 
-# Las Vegas Hotel Popularity 
-[DESCRIPTION]
+## PROJECTTITLE
+Las Vegas Hotel Popularity 
+## DESCRIPTION
