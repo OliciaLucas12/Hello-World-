@@ -10,6 +10,15 @@
 - [HOW TO RUN PROGRAM](#How-to-run-program)
 - [ADDITIONAL INFORMATION](#additional-information).
 
-## PROJECTTITLE
+## PROJECT TITLE
 Las Vegas Hotel Popularity 
 ## DESCRIPTION
+Analyized what factors into popu;arity of a Las Vegas Hotel
+## TOOLS USED
+- Kaggle
+- Excell
+- Word
+- powerpoint
+## FILES USED
+## HOW TO RUN PROGRAM 
+## ADDITIONAL INFOMRATION 
